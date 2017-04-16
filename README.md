@@ -1,4 +1,4 @@
-# simple_text_analysis
+# Text analysis
 First version of linguistic processor
 
-Строим обратный индекс по леммам слов, встречаемыъ в тексте
+Строим обратный индекс по леммам слов, встречаемых в тексте
